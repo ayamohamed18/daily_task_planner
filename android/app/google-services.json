@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904404927216",
+    "project_id": "daily-task-planner-23446",
+    "storage_bucket": "daily-task-planner-23446.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904404927216:android:3adde414af25f375223835",
+        "android_client_info": {
+          "package_name": "com.example.daily_task_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9lyK0OSw7VWPRxyAm2KEbOJ1vIb_I6tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
